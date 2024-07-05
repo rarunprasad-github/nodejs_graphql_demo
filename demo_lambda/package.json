@@ -1,0 +1,20 @@
+{
+  "name": "demo_lambda",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun Prasad Raghavendran",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-client": "^2.6.10",
+    "apollo-link-http": "^1.5.17",
+    "apollo-server-express": "^3.13.0",
+    "graphql": "^15.9.0",
+    "isomorphic-fetch": "^3.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
